@@ -125,4 +125,4 @@ async def on_message(message):
         await message.channel.send(bot_reply)
 
 
-client.run("get ur own bot code :D")
+client.run("get ur own bot token :D")
